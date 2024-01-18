@@ -6,11 +6,17 @@ This initiative can be applied practically for evaluating various entities like 
 
 
 -Implement necessary libraries, load datasets, and carry out initial data examination (exploratory data analysis).
+
 -Gain comprehension of the conceptual basis and underlying intuition of the Capital Asset Pricing Model (CAPM).
+
 -Create interactive plots utilizing Plotly Express.
+
 -Compute Beta and anticipated returns for securities via Python.
+
 -Theoretical background and intuitive understanding of CAPM.
+
 -Design a Python-based function to determine the daily returns of securities.
+
 -Execute data scaling or normalization processes.
 
 
