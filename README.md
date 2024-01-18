@@ -1,8 +1,8 @@
-In this undertaking, we'll utilize Python to execute stock analysis, including the computation of stock betas and anticipated returns utilizing the Capital Asset Pricing Model (CAPM). 
-The CAPM represents a significant model in Finance that outlines the connection between the anticipated yield and risk of financial instruments. 
-Our examination will focus on multiple organizations, namely Facebook, Netflix, Twitter, and AT&T, spanning the previous 7-year period. 
-This venture holds immense significance for investors aiming to effectively administer their portfolios, estimate projected returns and risks, illustrate data sets, detect meaningful trends, and derive insightful conclusions. 
-This initiative can be applied practically for evaluating various entities like stocks, indices, or currencies and assessing portfolio performance.
+This project aims to perform comprehensive stock analysis using Python, focusing on calculating stock betas and expected returns through the Capital Asset Pricing Model (CAPM) for companies such as Facebook, Netflix, Twitter, and AT&T over the past seven years. 
+The application of CAPM is crucial in finance as it establishes the relationship between an asset's expected return and its systematic risk.
+By accurately estimating potential returns and associated risks, investors can make informed decisions when managing their portfolios, identifying market trends, and drawing valuable insights. 
+This methodology can also be utilized for analyzing other assets such as indices or currencies and measuring portfolio efficiency.
+
 
 
 -Implement necessary libraries, load datasets, and carry out initial data examination (exploratory data analysis).
